@@ -1,10 +1,13 @@
 #ifndef INC_LIBAMPS_LIBAMPS_HPP
 #define INC_LIBAMPS_LIBAMPS_HPP
 
+#include "media.hpp"
+
 #include "arude/noncopyable.hpp"
 #include "arude/sigslot.hpp"
 
-#include "media.hpp"
+#include <string>
+#include <vector>
 
 
 namespace libamps
